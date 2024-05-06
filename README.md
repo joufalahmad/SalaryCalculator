@@ -5,4 +5,4 @@ number of hours worked by the employee.The program calculates the base salary by
 the number of hours worked.If the hours worked exceed 40 hours, which is the standard workweek duration, the program 
 calculates overtime pay. Overtime pay is computed at a rate of 1.5 times the hourly wage rate for each hour worked beyond 
 40 hours. After completing the calculations, the program displays the total salary of the employee, consisting of the base 
-salary plus any overtime pay earned. Finally, the program closes the scanner object used for input.
+salary plus any overtime pay earned. 
